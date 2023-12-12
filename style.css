@@ -1,0 +1,8 @@
+.list img {
+    border: 2px solid black;
+}
+
+.list li {
+    padding: 50px;
+    list-style: none;
+}
